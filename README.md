@@ -1,1 +1,1 @@
-Gerador de ficha para D&D
+Gerador de ficha para RPG 
